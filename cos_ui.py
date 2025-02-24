@@ -43,4 +43,4 @@ class COS_UI(bpy.types.Panel):
         layout.prop(scene, 'cos_dataset_name')
 
         layout.separator()
-        layout.operator('object.camera_on_sphere', text='PLAY COS')
+        layout.operator('object.camera_on_sphere', text='PLAY COS - J')
